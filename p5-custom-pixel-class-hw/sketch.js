@@ -34,7 +34,7 @@ class ColorPixel {
     let b = capture.pixels[offset + 2];
 
     // Calculate brightness and HSB value
-    this.brightness = (r + g + b) / 10;
+    this.brightness = (r + g + b) / 11;
     this.hsbValue = map(this.brightness, 0, 250, 0, 500);
   }
 
