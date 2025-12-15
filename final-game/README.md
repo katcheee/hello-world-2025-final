@@ -10,6 +10,7 @@ This project is designed to help potential foster pet parents assess their readi
 This game guides users through a series of questions and real-life-inspired scenarios to evaluate their fostering readiness. Based on their responses, users receive personalized feedback and recommendations for next steps in their fostering journey.
 
 👉 **[Play the game online (https://editor.p5js.org/katcheee/full/bM4qXPtdk)]**
+**[Sketch link (https://editor.p5js.org/katcheee/sketches/bM4qXPtdk)]**
 
  ## Gameplay Preview
 
