@@ -10,6 +10,7 @@ This project is designed to help potential foster pet parents assess their readi
 This game guides users through a series of questions and real-life-inspired scenarios to evaluate their fostering readiness. Based on their responses, users receive personalized feedback and recommendations for next steps in their fostering journey.
 
 👉 **[Play the game online (https://editor.p5js.org/katcheee/full/bM4qXPtdk)]**
+
 **[Sketch link (https://editor.p5js.org/katcheee/sketches/bM4qXPtdk)]**
 
  ## Gameplay Preview
@@ -24,7 +25,6 @@ This game guides users through a series of questions and real-life-inspired scen
 ### 1. Welcome Screen
 - Title: "Ready to Foster?"
 - Clear explanation of the game's purpose
-- Visual peek preview of what's to come
 - Start button to begin the assessment
 
 ### 2. Question Phase (6 Questions)
@@ -256,8 +256,6 @@ RESULTS
 - **Progress saving**: Allow users to return and continue
 - **Retake option**: Try quiz again after preparation
 - **Share results**: Social media integration
-- **Print option**: PDF summary of readiness and recommendations
-- **Multilingual support**: Reach broader audience
 - **Mobile optimization**: Touch-friendly responsive design
 - **Analytics**: Track which questions/scenarios are most educational
 - **Additional scenarios**: Expand scenario library based on real foster experiences
@@ -281,10 +279,6 @@ The game balances **honesty with encouragement**:
 - Educators teaching about animal welfare
 - Shelter staff for volunteer orientation
 
-## Credits
-
-Created as part of a service design and interactive technology project focused on community engagement and animal welfare.
-
 ---
 
 ## Getting Started
@@ -298,12 +292,10 @@ Created as part of a service design and interactive technology project focused o
 **Note**: This is an educational tool and assessment guide. Final fostering decisions should always involve consultation with local animal shelters and rescue organizations.
 
 
-👩‍🎨 About the Authors
+## About the Authors
 
 Designed and developed by **Kathy & Yuxuan**  
 Interaction Design students at the School of Visual Arts (SVA)
-
-This project explores how interactive design can support better decision-making around pet fostering.
 
 ---
 
